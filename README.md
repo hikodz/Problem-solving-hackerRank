@@ -1,2 +1,3 @@
 # Problem-solving-hackerRank
- soon after the exams
+ 
+Here are all the questions and solutions to the software issues that were resolved on the site
