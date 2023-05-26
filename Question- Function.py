@@ -13,5 +13,5 @@ def num_failed(the_number_failed):
             return number
 
 num_failed = num_failed(820)
-print(num_failed)
+print(num_failed) # 40
 
